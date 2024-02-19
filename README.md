@@ -12,3 +12,6 @@ git
 
 ## local development
 1. open bla bla bla.
+
+if file is modified (and not created) you can add and commit it at the same time using:
+git commit -am "added bla bla"
