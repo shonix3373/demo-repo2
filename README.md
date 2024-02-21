@@ -7,7 +7,7 @@ git init
 
 write code -> git status -> git add . -> git status -> commit changes
 
-# you want to push changes to git hub but the folder is not recognized in git hub yet:
+## you want to push changes to git hub but the folder is not recognized in git hub yet:
 
 create empty repo in git hub -> copy HTTPS address ->
 git remote add origin address
